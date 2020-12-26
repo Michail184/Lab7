@@ -8,7 +8,7 @@ uses
   BoldHandles, BoldRootedHandles, BoldAbstractListHandle, BoldCursorHandle,
   BoldListHandle, BoldSystemHandle, BoldSubscription, BoldAbstractModel,
   BoldModel, BoldHandle, BoldPersistenceHandle, BoldPersistenceHandleFile,
-  BoldPersistenceHandleFileXML, BoldAFPDefault;
+  BoldPersistenceHandleFileXML, Bold;
 
 type
   TForm1 = class(TForm)
